@@ -10,20 +10,16 @@ export const sidebarLinks = [
     label: "Search",
   },
   {
-    imgURL: "/assets/heart.svg",
-    route: "/activity",
-    label: "Activity",
+    imgURL: "/assets/more.svg",
+    route: "/query",
+    label: "Query",
   },
   {
     imgURL: "/assets/create.svg",
-    route: "/create-thread",
-    label: "Create Thread",
+    route: "/create-database",
+    label: "Create Database",
   },
-  {
-    imgURL: "/assets/community.svg",
-    route: "/communities",
-    label: "Communities",
-  },
+
   {
     imgURL: "/assets/user.svg",
     route: "/profile",
